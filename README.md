@@ -18,8 +18,9 @@ Monografia apresentada em Sistemas de Informação, como requisito parcial para 
 ## Metodologia
 
 Foi utilizado a metodologia de Kitchenham e Charters (2007), seguindo na linha de uma Revisão Sistemática da Literatura (RSL). O passo a passo exato foi:
-- A
-- B
-- C
-- D
-- E
+- **Definição das questões de pesquisa**: entendendo de antemão o que iria ser feito, o contexto e o objetivo da RSL.
+- **Estratégia de busca**: criação e refinamento da string de busca e escolha das bases online de busca.
+String escolhida: ("sampling techniques" OR "sampling methods" or “sampling”) AND  ("big data" or "large-scale data" or "profiling")
+- **Critérios de Inclusão e Exclusão**: refinamento dos artigos até chegar em um escopo menor que aborde o tema proposto.
+- **Critérios de Qualidade**: etapa final de refinamento para que os artigos finais tenham metodologia, resultados e detalhamento adequado alcançando 80% de qualidade.
+- **Seleção dos Estudos**: agregando todos os artigos e analisando os resultados finais, bem como sua distribuição por ano de produção, país etc.
