@@ -1,21 +1,15 @@
 <div align="center">
   <img src="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png" alt="logo_cin" width="400" height="auto" style="border-radius:20px;" />
   <h2>
-    [IF977] - ENGENHARIA DE SOFTWARE - CIN UFPE
+    Trabalho de Conclusão de Curso
   </h2>
   <h1>
-    Projeto — Gestão de Espaços Esportivos da SEGEL
+    Métodos de Amostragem em Ambientes Big Data para o Data Profiling: Fundamentos, Desafios e Aplicações
   </h1> 
 </div>
 
 ## :trophy: Componentes
-- Isabelle Queiroz Gomes de Assis;
-- Luiz Phillip Pereira Barbosa;
 - Paulo Vitor Alves de Oliveira;
-- Rodrigo Medeiros Florencio Leal;
-- Thiago Botelho Rodrigues;
-- Vinícius Marçal de Araújo.
-
 
 ## :pencil: Projeto
 <p align="center">
